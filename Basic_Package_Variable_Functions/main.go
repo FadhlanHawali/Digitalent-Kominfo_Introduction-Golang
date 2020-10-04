@@ -5,6 +5,7 @@ import (
 	"github.com/FadhlanHawali/Digitalent-Kominfo_Introduction-Golang/Basic_Package_Variable_Functions/package_1"
 )
 
+
 func main () {
 
 	var x,y int
@@ -24,4 +25,3 @@ func main () {
 
 	fmt.Println(fmt.Sprintf("Hasil penjumlahannya adalah %d , %t",result2,flag2))
 }
-
